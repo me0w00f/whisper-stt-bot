@@ -1,0 +1,4 @@
+aiohttp==3.9.5
+python-dotenv==1.0.1
+pydub==0.25.1
+Telethon==1.36.0
